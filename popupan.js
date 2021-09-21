@@ -1,6 +1,6 @@
 /*
 var i=Math.floor(Math.random() * 3);
-	var urls=["https://vohoangbuu.com","https://www.youtube.com/channel/UCYtz2VhlysxbQvIS4oH5uMw","https://www.facebook.com/hoangbuubds"];
+	var urls=["https://vohoangbuu.com","https://youtube.com/channel/UCYtz2VhlysxbQvIS4oH5uMw","https://www.facebook.com/hoangbuubds"];
  
 	var url_popup = urls[i];
       //<![CDATA[
